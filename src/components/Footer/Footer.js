@@ -5,9 +5,7 @@ function Footer() {
   return (
     <div className="footer-container">
       <section className="social-media">
-        <div className="social-media-wrap">
-          <small className="website-rights">Aycan ÇOTOY © 2021</small>
-        </div>
+        <div className="website-rights">Aycan ÇOTOY © 2021</div>
       </section>
     </div>
   );
